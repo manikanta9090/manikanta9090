@@ -41,4 +41,4 @@
 
 - 🥉 Secured **3rd place** in Avalanche Blockchain Workshop  
 - 🏆 **4th place** in “I Love Hackathon” Contest  
-- 🎤 Pa
+  
